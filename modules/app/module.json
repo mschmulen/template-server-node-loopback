@@ -1,0 +1,4 @@
+{
+  "editor": "/tools/app-edit/editor.html",
+  "source": {"name":"server-node-loopback","applications":["app"]}
+}
